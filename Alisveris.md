@@ -1,23 +1,23 @@
 
-# Banka Uygulaması 🏦
+# Banka Uygulaması 
 
 Bu proje, Windows Forms kullanılarak C# ile geliştirilmiş basit bir banka simülasyon uygulamasıdır. Kullanıcılar para yatırma, para çekme ve bakiye sorgulama işlemlerini gerçekleştirebilir.
 
-## Özellikler ✨
+## Özellikler 
 
 - **Para Yatırma**: Hesaba belirli miktarda para yatırma
 - **Para Çekme**: Önceden belirlenmiş miktarlarda veya kullanıcı tanımlı tutarlarda para çekme
 - **Bakiye Sorgulama**: Mevcut bakiyeyi görüntüleme
 - **Kullanıcı Dostu Arayüz**: Kolay navigasyon için menü sistemi
 
-## Formlar 📋
+## Formlar 
 
 - **MENU**: Ana menü formu
 - **PARAYATIR**: Para yatırma işlemi formu
 - **PARACEK**: Para çekme işlemi formu
 - **Bakiye**: Bakiye görüntüleme formu
 
-## Teknolojiler 🛠️
+## Teknolojiler 
 
 - **Dil**: C#
 - **Framework**: .NET Framework 4.7.2
@@ -25,18 +25,18 @@ Bu proje, Windows Forms kullanılarak C# ile geliştirilmiş basit bir banka sim
 - **IDE**: Visual Studio
   
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Alışveriş Uygulaması 🛒
+# Alışveriş Uygulaması 
 
 Bu proje, Windows Forms kullanılarak C# ile geliştirilmiş bir market alışveriş uygulamasıdır. Kullanıcılar çeşitli ürünleri sepete ekleyebilir, toplam tutarı hesaplayabilir ve alışveriş işlemlerini gerçekleştirebilir.
 
-## Özellikler ✨
+## Özellikler 
 
 - **Ürün Kataloğu**: Çeşitli gıda ve market ürünleri
 - **Miktar Seçenekleri**: Farklı ağırlık ve adet seçenekleri
 - **Sepet Yönetimi**: Ürünleri sepete ekleme ve toplam tutar hesaplama
 - **Fiyat Hesaplama**: Otomatik toplam fiyat hesaplama
 
-## Ürün Kategorileri 🍎
+## Ürün Kategorileri 
 
 ### Gıda Ürünleri
 - **Meyveler**: Elma, Armut, Ayva, Portakal, Karpuz, Kavun
@@ -49,7 +49,7 @@ Bu proje, Windows Forms kullanılarak C# ile geliştirilmiş bir market alışve
 - **Gramaj**: 500g, 1kg, 2kg, 5kg, 10kg, 15kg
 - **Adet**: 1 tane, 2 tane, 3 tane, 6 tane
 
-## Teknolojiler 🛠️
+## Teknolojiler 
 
 - **Dil**: C#
 - **Framework**: .NET Framework
